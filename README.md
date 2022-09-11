@@ -1,6 +1,8 @@
 # The Insiders Guide to Arm Cortex-M Development
 This is the GitHub repository for this book. You will find all example code referenced in the book here, along with links to example code hosted elsewhere.
 
+Forcing a change
+
 The repository is organized into chapters of the book, which are:
 
 PART ONE: Get Set Up
